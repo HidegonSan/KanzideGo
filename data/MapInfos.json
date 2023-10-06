@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"最初","order":1,"parentId":0,"scrollX":848,"scrollY":600},
+{"id":2,"expanded":false,"name":"STAGE","order":3,"parentId":0,"scrollX":792,"scrollY":716},
+{"id":3,"expanded":true,"name":"モード","order":2,"parentId":0,"scrollX":848,"scrollY":600},
+{"id":4,"expanded":false,"name":"セットアップ","order":4,"parentId":0,"scrollX":674.6666666666666,"scrollY":465.3333333333333}
+]
